@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/</loc>
-<lastmod>2018-10-25T16:33:07-00:00</lastmod>
+<lastmod>2018-10-29T13:57:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/archives.html</loc>
-<lastmod>2018-10-25T16:33:07-00:00</lastmod>
+<lastmod>2018-10-29T13:57:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tags.html</loc>
-<lastmod>2018-10-25T16:33:07-00:00</lastmod>
+<lastmod>2018-10-29T13:57:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/categories.html</loc>
-<lastmod>2018-10-25T16:33:07-00:00</lastmod>
+<lastmod>2018-10-29T13:57:58-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/disfrazdeconejo-halloween-bruja-batman-diadebrujas.html</loc>
+<lastmod>2018-10-28T20:23:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -82,28 +89,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/category/valentina.html</loc>
-<lastmod>2018-10-25T11:42:00-06:37</lastmod>
+<lastmod>2018-10-28T20:23:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tag/valentina.html</loc>
-<lastmod>2018-10-25T11:42:00-06:37</lastmod>
+<lastmod>2018-10-28T20:23:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tag/holland-lop.html</loc>
-<lastmod>2018-10-25T11:42:00-06:37</lastmod>
+<lastmod>2018-10-28T20:23:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tag/bunny.html</loc>
-<lastmod>2018-10-25T11:42:00-06:37</lastmod>
+<lastmod>2018-10-28T20:23:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/disfraz.html</loc>
+<lastmod>2018-10-28T20:23:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/hallowen.html</loc>
+<lastmod>2018-10-28T20:23:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/bruja.html</loc>
+<lastmod>2018-10-28T20:23:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/batman.html</loc>
+<lastmod>2018-10-28T20:23:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -208,7 +243,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/author/genesis-hernandez.html</loc>
-<lastmod>2018-10-25T11:42:00-06:37</lastmod>
+<lastmod>2018-10-28T20:23:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
