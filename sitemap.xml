@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/</loc>
-<lastmod>2018-11-14T20:11:30-00:00</lastmod>
+<lastmod>2018-11-19T16:08:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/archives.html</loc>
-<lastmod>2018-11-14T20:11:30-00:00</lastmod>
+<lastmod>2018-11-19T16:08:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tags.html</loc>
-<lastmod>2018-11-14T20:11:30-00:00</lastmod>
+<lastmod>2018-11-19T16:08:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/categories.html</loc>
-<lastmod>2018-11-14T20:11:30-00:00</lastmod>
+<lastmod>2018-11-19T16:08:57-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/regalos-kawaii-navidad.html</loc>
+<lastmod>2018-11-19T14:13:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -137,8 +144,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://chunchesymas.github.io/category/regalos.html</loc>
+<lastmod>2018-11-19T14:13:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://chunchesymas.github.io/category/valentina.html</loc>
 <lastmod>2018-10-28T20:23:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/regalos.html</loc>
+<lastmod>2018-11-19T14:13:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/kawaii.html</loc>
+<lastmod>2018-11-19T14:13:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/navidad.html</loc>
+<lastmod>2018-11-19T14:13:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -383,7 +418,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/author/genesis-hernandez.html</loc>
-<lastmod>2018-11-14T17:58:00-06:37</lastmod>
+<lastmod>2018-11-19T14:13:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
