@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/</loc>
-<lastmod>2018-11-22T19:49:57-00:00</lastmod>
+<lastmod>2018-11-28T21:36:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/archives.html</loc>
-<lastmod>2018-11-22T19:49:57-00:00</lastmod>
+<lastmod>2018-11-28T21:36:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tags.html</loc>
-<lastmod>2018-11-22T19:49:57-00:00</lastmod>
+<lastmod>2018-11-28T21:36:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/categories.html</loc>
-<lastmod>2018-11-22T19:49:57-00:00</lastmod>
+<lastmod>2018-11-28T21:36:45-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/como-elegir-base-maquillaje.html</loc>
+<lastmod>2018-11-28T21:27:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -131,7 +138,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/category/belleza.html</loc>
-<lastmod>2018-11-07T15:49:00-06:37</lastmod>
+<lastmod>2018-11-28T21:27:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -160,6 +167,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://chunchesymas.github.io/category/valentina.html</loc>
 <lastmod>2018-10-28T20:23:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/como.html</loc>
+<lastmod>2018-11-28T21:27:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/elegir.html</loc>
+<lastmod>2018-11-28T21:27:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/base.html</loc>
+<lastmod>2018-11-28T21:27:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/maquillaje.html</loc>
+<lastmod>2018-11-28T21:27:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -230,13 +265,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://chunchesymas.github.io/tag/cetogenica.html</loc>
 <lastmod>2018-11-12T14:22:00-06:37</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://chunchesymas.github.io/tag/maquillaje.html</loc>
-<lastmod>2018-11-07T15:49:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -439,7 +467,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/author/genesis-hernandez.html</loc>
-<lastmod>2018-11-22T19:09:00-06:37</lastmod>
+<lastmod>2018-11-28T21:27:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
