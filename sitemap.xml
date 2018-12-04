@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/</loc>
-<lastmod>2018-11-28T21:36:45-00:00</lastmod>
+<lastmod>2018-12-04T16:28:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/archives.html</loc>
-<lastmod>2018-11-28T21:36:45-00:00</lastmod>
+<lastmod>2018-12-04T16:28:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tags.html</loc>
-<lastmod>2018-11-28T21:36:45-00:00</lastmod>
+<lastmod>2018-12-04T16:28:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/categories.html</loc>
-<lastmod>2018-11-28T21:36:45-00:00</lastmod>
+<lastmod>2018-12-04T16:28:43-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/receta-galletas-keto.html</loc>
+<lastmod>2018-12-04T16:29:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -145,7 +152,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/category/keto.html</loc>
-<lastmod>2018-11-22T19:09:00-06:37</lastmod>
+<lastmod>2018-12-04T16:29:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -167,6 +174,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://chunchesymas.github.io/category/valentina.html</loc>
 <lastmod>2018-10-28T20:23:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/receta.html</loc>
+<lastmod>2018-12-04T16:29:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/galletas.html</loc>
+<lastmod>2018-12-04T16:29:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/cookie.html</loc>
+<lastmod>2018-12-04T16:29:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/keto.html</loc>
+<lastmod>2018-12-04T16:29:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -195,20 +230,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://chunchesymas.github.io/tag/maquillaje.html</loc>
 <lastmod>2018-11-28T21:27:00-06:37</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://chunchesymas.github.io/tag/receta.html</loc>
-<lastmod>2018-11-22T19:09:00-06:37</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://chunchesymas.github.io/tag/keto.html</loc>
-<lastmod>2018-11-22T19:09:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -467,7 +488,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/author/genesis-hernandez.html</loc>
-<lastmod>2018-11-28T21:27:00-06:37</lastmod>
+<lastmod>2018-12-04T16:29:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
