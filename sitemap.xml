@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/</loc>
-<lastmod>2019-01-17T19:50:37-00:00</lastmod>
+<lastmod>2019-02-05T17:21:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/archives.html</loc>
-<lastmod>2019-01-17T19:50:37-00:00</lastmod>
+<lastmod>2019-02-05T17:21:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tags.html</loc>
-<lastmod>2019-01-17T19:50:37-00:00</lastmod>
+<lastmod>2019-02-05T17:21:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/categories.html</loc>
-<lastmod>2019-01-17T19:50:37-00:00</lastmod>
+<lastmod>2019-02-05T17:21:54-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/valentina-esterilizacion-conejita-valiente.html</loc>
+<lastmod>2019-02-05T15:08:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -180,28 +187,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/category/valentina.html</loc>
-<lastmod>2019-01-17T19:35:00-06:37</lastmod>
+<lastmod>2019-02-05T15:08:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tag/valentina.html</loc>
-<lastmod>2019-01-17T19:35:00-06:37</lastmod>
+<lastmod>2019-02-05T15:08:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tag/holland-lop.html</loc>
-<lastmod>2019-01-17T19:35:00-06:37</lastmod>
+<lastmod>2019-02-05T15:08:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chunchesymas.github.io/tag/bunny.html</loc>
-<lastmod>2019-01-17T19:35:00-06:37</lastmod>
+<lastmod>2019-02-05T15:08:00-06:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chunchesymas.github.io/tag/esterilizacion.html</loc>
+<lastmod>2019-02-05T15:08:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -502,7 +516,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chunchesymas.github.io/author/genesis-hernandez.html</loc>
-<lastmod>2019-01-17T19:35:00-06:37</lastmod>
+<lastmod>2019-02-05T15:08:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
